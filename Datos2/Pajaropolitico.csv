@@ -1,264 +1,260 @@
-id	text	len	date	source	likes	rt
-1118940764782907392	Conoce tus derechos como pasajero: si la aerolínea con la que viajas cambia el itinerario de los vuelos debe avisar… https://t.co/l8tJGJZTSc	140	2019-04-18 18:14:01	Buffer	23	12
-1118937503375994880	¿Qué provoca felicidad o tristeza en los niños de México? Piden más afecto, esparcimiento y cuidado ambiental, de a… https://t.co/c8nawGGgGh	140	2019-04-18 18:01:04	Buffer	14	7
-1118934225686802433	Las carreras con más ocupación en México son administración, derecho y contabilidad; las de menor, ciencias físico-… https://t.co/PpkVpJf8Rt	140	2019-04-18 17:48:02	Buffer	16	5
-1118930951181090816	¿Compraste tu paquete para vacaciones con Vacación Travel Advisory, https://t.co/VvkRxnIAZX o Grupo Posada? Estas s… https://t.co/0eFv3bpQ7Y	140	2019-04-18 17:35:02	Buffer	6	9
-1118927682429964288	La propuesta firmada por el presidente Trump busca impedir que el nivel de las represas en el sur de Estados Unidos… https://t.co/qP64O9m3q9	140	2019-04-18 17:22:02	Buffer	7	4
-1118924401154625538	¡Los museos de la CDMX estarán abiertos estos días de descanso por la #SemanaSanta!, ¿Qué exposición vas a visitar? https://t.co/ZVHVuDXPCd	139	2019-04-18 17:09:00	Buffer	30	10
-1118921132017639424	La @PoliciaFedMx está endeudada con 2 mil 500 mdp  por pagos pendientes en conceptos como gasolina, viáticos e inde… https://t.co/r0ss7FTQYJ	140	2019-04-18 16:56:01	Buffer	34	30
-1118917861840441346	En medio de ‘Ciudad Slim’ se encuentra la Cerrada Andrómaco, un callejón en el que viven alrededor de 200 personas… https://t.co/rHWSetofXo	139	2019-04-18 16:43:01	Buffer	53	29
-1118914622491451392	Un tribunal resolvió que la @FGRMexico debe hacer versiones públicas de la investigación del caso #Odebrecht, por s… https://t.co/qejRRKHxta	140	2019-04-18 16:30:09	Buffer	51	53
-1118911320194211841	Tercer día de #ContingenciaAmbiental: Autoridades decidieron mantener la Fase 1 para este jueves. Consulta si puede… https://t.co/zyFLYG3O3k	140	2019-04-18 16:17:01	Buffer	10	9
-1118908046141476865	RT @NewsweekEspanol: Se confirmó la participación de Rusia en las elecciones, pero se aseguró que no hubo “cooperación” con el presidente D…	140	2019-04-18 16:04:01	Buffer	0	11
-1118904777662967809	¡Atención, vacacionistas! En Baja California, Baja California Sur y Campeche se encuentran las playas más limpias,… https://t.co/ZyB9ucfyUN	139	2019-04-18 15:51:01	Buffer	42	12
-1118901507984904192	14 pueblos originarios de Xochimilco buscan recuperar el sistema de autogobierno para que autoridades tradicionales… https://t.co/mJ9J5gPL66	140	2019-04-18 15:38:02	Buffer	20	4
-1118898244606730240	Con más de 850 años, la catedral de #NotreDame albergaba piezas de inestimable valor artístico e histórico.… https://t.co/HiXeG0nFhc	132	2019-04-18 15:25:04	Buffer	43	15
-1118894962962259970	76 días de huelga en la UAM: Autoridades y trabajadores sindicalizados aun no alcanzan acuerdos, mientras los estud… https://t.co/OU8pNE2uUe	140	2019-04-18 15:12:01	Buffer	48	24
-1118891686451654656	"RT @animalgourmet: Para desayunar les dejamos la receta de un clásico yucateco: huevos motuleños. 
-https://t.co/cjp2azx3Tj https://t.co/6q6…"	140	2019-04-18 14:59:00	Buffer	0	8
-1118888419369934849	No pagues de más: con esta herramienta de @Profeco puedes comparar los precios máximos y mínimos de las variedades… https://t.co/vkmhhlP8Q7	139	2019-04-18 14:46:01	Buffer	26	17
-1118885151692468227	Los tres funcionarios de @Pemex relacionados con #LaEstafaMaestra fueron separados del cargo hasta el 11 de abril;… https://t.co/k1bziuXrQO	139	2019-04-18 14:33:02	Buffer	22	12
-1118881870547173376	¿Es posible vivir un día en México sin enriquecer más a Carlos Slim? Las empresas del magnate están presentes en la… https://t.co/XTGRyNf4Mw	140	2019-04-18 14:20:00	Buffer	94	34
-1118878603582824449	Millones de personas en el mundo buscan el amor en internet, ¿cómo tener éxito? @bbcmundo te da 7 consejos para aum… https://t.co/QWPd0SiacM	140	2019-04-18 14:07:01	Buffer	7	1
-1118875334013804544	¿Cancelaron tu vuelo? Si la aerolínea no te avisó con al menos 24 horas de anticipación del cambio de itinerario, t… https://t.co/0pjQqqC9OE	140	2019-04-18 13:54:01	Buffer	75	46
-1118872068140032001	El gobierno de EU firmó un plan para reducir el uso de agua del Río Colorado, lo que podría afectar a 3.2 millones… https://t.co/30fGjnC6aY	139	2019-04-18 13:41:03	Buffer	10	10
-1118868784037683201	#HoyEnAnimal | El exdirector de @Pemex, Emilio Lozoya, buscó frenar que se diera a conocer el expediente por el cas… https://t.co/Ros1UtPzVq	140	2019-04-18 13:28:00	TweetDeck	630	560
-1118865512501583877	"¡Buen día! ¿Ya descansando por el puente de Semana Santa?
+id,text,len,date,source,likes,rt
+1118985397105758212,"Porque sabemos que viajarás en carretera, te damos el listado de las más inseguras y peligrosas de México. https://t.co/86e4o64FM4",130,2019-04-18 21:11:23,Buffer,4,2
+1118982634665840643,🏊‍♂️🏊‍♀️ Nada sin miedo al mañana: estas son las playas más limpias de México. https://t.co/2xup0naWET,102,2019-04-18 21:00:24,Buffer,26,8
+1118980024986677248,Lo que necesitas saber en Cuaresma: la @Profeco publica comparativo de precios en pescados y mariscos.… https://t.co/TA152HAdvn,127,2019-04-18 20:50:02,Buffer,9,1
+1118980021387956232,"En #ConferenciaMatutina, @lopezobrador_ dio ""una buena noticia"": que la creación de empleos en el primer trimestre… https://t.co/wPZOoRJO9x",139,2019-04-18 20:50:01,Buffer,12,6
+1118976749696618502,"Todas las playas del país son aptas para recibir turistas; las más limpias están en Baja California, Baja Californi… https://t.co/3fRFPKZukT",140,2019-04-18 20:37:01,Buffer,31,10
+1118976745540063248,"RT @NewsweekEspanol: Para mantener viva Notre Dame, Francia planea crear una ""catedral efímera"" durante las obras de reconstrucción. https:…",140,2019-04-18 20:37:00,Buffer,0,6
+1118973474226233344,"¿Te quedaste en CDMX o viniste de visita? Recorre los museos de la capital, estos permanecerán abiertos los días de… https://t.co/DikOHWjK34",140,2019-04-18 20:24:00,Buffer,35,23
+1118970211510685696,La propuesta de Ley de la #GuardiaNacional entregada al Senado por el consejero jurídico de Presidencia planteó que… https://t.co/q69zuVqrkY,140,2019-04-18 20:11:02,Buffer,6,5
+1118967009746800641,"Tercer día de #ContingenciaAmbiental: Hoy no circulan los autos con holograma 2 y holograma 1, terminación placa no… https://t.co/6gnUFosttF",140,2019-04-18 19:58:19,Buffer,14,21
+1118963680685830145,"Se cumplen 76 días de huelga en la UAM, y las autoridades aún no llegan a acuerdos con los trabajadores sindicaliza… https://t.co/RlS5y90Y7e",140,2019-04-18 19:45:05,Buffer,46,33
+1118960394855428098,"#Plumaje | ¿Es el #MeTooMX un ataque hacia los hombres?, ¿Qué hacer si eres señalado? Roberto Garda escribe sobre e… https://t.co/23Uhs5cvIM",140,2019-04-18 19:32:02,Buffer,1,1
+1118957123596103680,"#Plumaje | Para no tener datos distintos sobre los homicidios en México, @datacivica nos presenta un instructivo pa… https://t.co/LAywevzFvD",140,2019-04-18 19:19:02,Buffer,17,11
+1118953846838112258,"Un tráiler que transportaba migrantes volcó esta madrugada en Veracruz, lo que dejó un salgo de 19 personas heridas. https://t.co/MkqDuak0MO",140,2019-04-18 19:06:00,Buffer,5,9
+1118950576191102977,La política de comunicación del @GobiernoMX da mayor certeza sobre la transparencia del gasto y los criterios de as… https://t.co/VPQ6OZ3lU4,140,2019-04-18 18:53:01,Buffer,7,4
+1118947307133841408,"RT @animalgourmet: Les dejamos 7 recetas de ceviches para Semana Santa ¡coman rico estos días!
+https://t.co/tWmCLVtRgJ https://t.co/wwiFFS1…",140,2019-04-18 18:40:01,Buffer,0,14
+1118944037812211713,"Dormir pocas horas, beber para quedarse dormido o mirar televisión en la cama para relajarte, algunos de los mitos… https://t.co/61kK32Gfov",139,2019-04-18 18:27:02,Buffer,29,17
+1118940764782907392,Conoce tus derechos como pasajero: si la aerolínea con la que viajas cambia el itinerario de los vuelos debe avisar… https://t.co/l8tJGJZTSc,140,2019-04-18 18:14:01,Buffer,64,37
+1118937503375994880,"¿Qué provoca felicidad o tristeza en los niños de México? Piden más afecto, esparcimiento y cuidado ambiental, de a… https://t.co/c8nawGGgGh",140,2019-04-18 18:01:04,Buffer,25,13
+1118934225686802433,"Las carreras con más ocupación en México son administración, derecho y contabilidad; las de menor, ciencias físico-… https://t.co/PpkVpJf8Rt",140,2019-04-18 17:48:02,Buffer,20,6
+1118930951181090816,"¿Compraste tu paquete para vacaciones con Vacación Travel Advisory, https://t.co/VvkRxnIAZX o Grupo Posada? Estas s… https://t.co/0eFv3bpQ7Y",140,2019-04-18 17:35:02,Buffer,8,10
+1118927682429964288,La propuesta firmada por el presidente Trump busca impedir que el nivel de las represas en el sur de Estados Unidos… https://t.co/qP64O9m3q9,140,2019-04-18 17:22:02,Buffer,7,6
+1118924401154625538,"¡Los museos de la CDMX estarán abiertos estos días de descanso por la #SemanaSanta!, ¿Qué exposición vas a visitar? https://t.co/ZVHVuDXPCd",139,2019-04-18 17:09:00,Buffer,35,13
+1118921132017639424,"La @PoliciaFedMx está endeudada con 2 mil 500 mdp  por pagos pendientes en conceptos como gasolina, viáticos e inde… https://t.co/r0ss7FTQYJ",140,2019-04-18 16:56:01,Buffer,45,46
+1118917861840441346,"En medio de ‘Ciudad Slim’ se encuentra la Cerrada Andrómaco, un callejón en el que viven alrededor de 200 personas… https://t.co/rHWSetofXo",139,2019-04-18 16:43:01,Buffer,62,32
+1118914622491451392,"Un tribunal resolvió que la @FGRMexico debe hacer versiones públicas de la investigación del caso #Odebrecht, por s… https://t.co/qejRRKHxta",140,2019-04-18 16:30:09,Buffer,63,67
+1118911320194211841,Tercer día de #ContingenciaAmbiental: Autoridades decidieron mantener la Fase 1 para este jueves. Consulta si puede… https://t.co/zyFLYG3O3k,140,2019-04-18 16:17:01,Buffer,10,9
+1118908046141476865,"RT @NewsweekEspanol: Se confirmó la participación de Rusia en las elecciones, pero se aseguró que no hubo “cooperación” con el presidente D…",140,2019-04-18 16:04:01,Buffer,0,12
+1118904777662967809,"¡Atención, vacacionistas! En Baja California, Baja California Sur y Campeche se encuentran las playas más limpias,… https://t.co/ZyB9ucfyUN",139,2019-04-18 15:51:01,Buffer,47,13
+1118901507984904192,14 pueblos originarios de Xochimilco buscan recuperar el sistema de autogobierno para que autoridades tradicionales… https://t.co/mJ9J5gPL66,140,2019-04-18 15:38:02,Buffer,22,4
+1118898244606730240,"Con más de 850 años, la catedral de #NotreDame albergaba piezas de inestimable valor artístico e histórico.… https://t.co/HiXeG0nFhc",132,2019-04-18 15:25:04,Buffer,47,16
+1118894962962259970,"76 días de huelga en la UAM: Autoridades y trabajadores sindicalizados aun no alcanzan acuerdos, mientras los estud… https://t.co/OU8pNE2uUe",140,2019-04-18 15:12:01,Buffer,52,26
+1118891686451654656,"RT @animalgourmet: Para desayunar les dejamos la receta de un clásico yucateco: huevos motuleños. 
+https://t.co/cjp2azx3Tj https://t.co/6q6…",140,2019-04-18 14:59:00,Buffer,0,10
+1118888419369934849,No pagues de más: con esta herramienta de @Profeco puedes comparar los precios máximos y mínimos de las variedades… https://t.co/vkmhhlP8Q7,139,2019-04-18 14:46:01,Buffer,27,19
+1118885151692468227,Los tres funcionarios de @Pemex relacionados con #LaEstafaMaestra fueron separados del cargo hasta el 11 de abril;… https://t.co/k1bziuXrQO,139,2019-04-18 14:33:02,Buffer,25,12
+1118881870547173376,¿Es posible vivir un día en México sin enriquecer más a Carlos Slim? Las empresas del magnate están presentes en la… https://t.co/XTGRyNf4Mw,140,2019-04-18 14:20:00,Buffer,104,38
+1118878603582824449,"Millones de personas en el mundo buscan el amor en internet, ¿cómo tener éxito? @bbcmundo te da 7 consejos para aum… https://t.co/QWPd0SiacM",140,2019-04-18 14:07:01,Buffer,7,1
+1118875334013804544,"¿Cancelaron tu vuelo? Si la aerolínea no te avisó con al menos 24 horas de anticipación del cambio de itinerario, t… https://t.co/0pjQqqC9OE",140,2019-04-18 13:54:01,Buffer,78,46
+1118872068140032001,"El gobierno de EU firmó un plan para reducir el uso de agua del Río Colorado, lo que podría afectar a 3.2 millones… https://t.co/30fGjnC6aY",139,2019-04-18 13:41:03,Buffer,11,10
+1118868784037683201,"#HoyEnAnimal | El exdirector de @Pemex, Emilio Lozoya, buscó frenar que se diera a conocer el expediente por el cas… https://t.co/Ros1UtPzVq",140,2019-04-18 13:28:00,TweetDeck,1020,818
+1118865512501583877,"¡Buen día! ¿Ya descansando por el puente de Semana Santa?
 
-Comienza tu fin de semana laaaaargo con información sobr… https://t.co/1Ds2HLi5Mo"	140	2019-04-18 13:15:00	TweetDeck	21	1
-1118835567226126336	"¡Feliz puente! Aquí tres recetas para hacer chilaquiles este jueves.
+Comienza tu fin de semana laaaaargo con información sobr… https://t.co/1Ds2HLi5Mo",140,2019-04-18 13:15:00,TweetDeck,21,1
+1118835567226126336,"¡Feliz puente! Aquí tres recetas para hacer chilaquiles este jueves.
 
 Ñom, ñom, ñom. Gracias, @animalgourmet.
 
- https://t.co/JjicIGwZK1"	135	2019-04-18 11:16:00	Buffer	26	2
-1118820230212595713	El Instituto Nacional de Perinatología, de CDMX, se negó a realizar una cesárea a mujer con embarazo de alto riesgo… https://t.co/4SqtOwrfEJ	140	2019-04-18 10:15:04	Buffer	30	34
-1118804610725158912	Si el memorándum sobre la reforma educativa es ilegal que denuncien, dijo @lopezobrador_ a oposición. https://t.co/j2RDlH2x1X	125	2019-04-18 09:13:00	Buffer	79	29
-1118789263167033344	"Fijan reglas y límites para publicidad oficial; gastarán 4.7 mil millones. 
- https://t.co/lXdVymwOcC"	100	2019-04-18 08:12:01	Buffer	11	6
-1118774164029083650	El Censida garantiza retrovirales hasta junio de 2019; gobierno no ha finalizado licitación para elegir a proveedor… https://t.co/6Vdv4GJX23	140	2019-04-18 07:12:01	Buffer	18	19
-1118758809323954176	En el Archivo General de la Nación está disponible la versión pública del expediente ampliado de @lopezobrador_. https://t.co/ukATVFGCGC	136	2019-04-18 06:11:00	Buffer	33	11
-1118748494813171712	"La Fiscalía de Sinaloa detiene a dos personas por el asesinato del periodista Omar Camacho. 
- https://t.co/QoE4hewAA6"	117	2019-04-18 05:30:01	Buffer	13	9
-1118743460020932608	En el ataque en el que participaron 30 hombres armados murió un jefe policial y un civil que estaba bajo arresto. https://t.co/e1VLd7ZLES	137	2019-04-18 05:10:00	Buffer	14	13
-1118740693265129472	"Sí, también tenemos el listado de las playas más sucias de México.
-https://t.co/tD62hSjpYf"	90	2019-04-18 04:59:01	Buffer	44	16
-1118737169798041600	"¿Quién dice yo a vacacionar echados en la arena? ☀️🌊.
+ https://t.co/JjicIGwZK1",135,2019-04-18 11:16:00,Buffer,8,2
+1118820230212595713,"El Instituto Nacional de Perinatología, de CDMX, se negó a realizar una cesárea a mujer con embarazo de alto riesgo… https://t.co/4SqtOwrfEJ",140,2019-04-18 10:15:04,Buffer,30,37
+1118804610725158912,"Si el memorándum sobre la reforma educativa es ilegal que denuncien, dijo @lopezobrador_ a oposición. https://t.co/j2RDlH2x1X",125,2019-04-18 09:13:00,Buffer,84,34
+1118789263167033344,"Fijan reglas y límites para publicidad oficial; gastarán 4.7 mil millones. 
+ https://t.co/lXdVymwOcC",100,2019-04-18 08:12:01,Buffer,11,6
+1118774164029083650,El Censida garantiza retrovirales hasta junio de 2019; gobierno no ha finalizado licitación para elegir a proveedor… https://t.co/6Vdv4GJX23,140,2019-04-18 07:12:01,Buffer,18,19
+1118758809323954176,En el Archivo General de la Nación está disponible la versión pública del expediente ampliado de @lopezobrador_. https://t.co/ukATVFGCGC,136,2019-04-18 06:11:00,Buffer,33,12
+1118748494813171712,"La Fiscalía de Sinaloa detiene a dos personas por el asesinato del periodista Omar Camacho. 
+ https://t.co/QoE4hewAA6",117,2019-04-18 05:30:01,Buffer,13,9
+1118743460020932608,En el ataque en el que participaron 30 hombres armados murió un jefe policial y un civil que estaba bajo arresto. https://t.co/e1VLd7ZLES,137,2019-04-18 05:10:00,Buffer,14,14
+1118740693265129472,"Sí, también tenemos el listado de las playas más sucias de México.
+https://t.co/tD62hSjpYf",90,2019-04-18 04:59:01,Buffer,47,16
+1118737169798041600,"¿Quién dice yo a vacacionar echados en la arena? ☀️🌊.
 
 Estas son las playas más limpias de México. 
-https://t.co/2xup0naWET"	123	2019-04-18 04:45:01	Buffer	66	20
-1118734153124651008	#Plumaje | Quienes integren la #GuardiaNacional “no deberán encontrarse en servicio activo en la Fuerza Armada perm… https://t.co/YO2OHt5hyq	140	2019-04-18 04:33:01	Buffer	6	3
-1118730877100613633	¿Estás hablando de viajar a Japón y de repente Facebook te recomienda vuelos al país oriental? @bbcmundo te explica… https://t.co/vk3kGtwQox	140	2019-04-18 04:20:00	Buffer	127	72
-1118728359171842048	#Plumaje | La lectura de la Cartilla moral  será reveladora para quienes la han ignorado hasta ahora; que no se cri… https://t.co/3KVKnIWhyE	140	2019-04-18 04:10:00	Buffer	10	1
-1118725088101244930	Las Universidades para el Bienestar, de @lopezobrador_, buscan captar el 21 % de egresados de bachillerato, pero no… https://t.co/cXNp1s0CXs	140	2019-04-18 03:57:00	Buffer	31	8
-1118722319428530176	"#Plumaje | ¿Qué pueden aprender los hombres del #MeTooMx? Roberto Garda reflexiona. 
+https://t.co/2xup0naWET",123,2019-04-18 04:45:01,Buffer,66,20
+1118734153124651008,#Plumaje | Quienes integren la #GuardiaNacional “no deberán encontrarse en servicio activo en la Fuerza Armada perm… https://t.co/YO2OHt5hyq,140,2019-04-18 04:33:01,Buffer,6,3
+1118730877100613633,¿Estás hablando de viajar a Japón y de repente Facebook te recomienda vuelos al país oriental? @bbcmundo te explica… https://t.co/vk3kGtwQox,140,2019-04-18 04:20:00,Buffer,132,73
+1118728359171842048,#Plumaje | La lectura de la Cartilla moral  será reveladora para quienes la han ignorado hasta ahora; que no se cri… https://t.co/3KVKnIWhyE,140,2019-04-18 04:10:00,Buffer,10,1
+1118725088101244930,"Las Universidades para el Bienestar, de @lopezobrador_, buscan captar el 21 % de egresados de bachillerato, pero no… https://t.co/cXNp1s0CXs",140,2019-04-18 03:57:00,Buffer,31,8
+1118722319428530176,"#Plumaje | ¿Qué pueden aprender los hombres del #MeTooMx? Roberto Garda reflexiona. 
 
-#BlogInvitado. https://t.co/FMsKhDzA2Q"	124	2019-04-18 03:46:00	Buffer	15	5
-1118719552043520006	Un baño helado a las 5 de la mañana y una comida al día: la rutina de Jack Dorsey, presidente ejecutivo de Twitter.… https://t.co/0EEpncRTMm	140	2019-04-18 03:35:00	Buffer	148	38
-1118716784041963520	#Plumaje | La nueva realidad del país no se podrá construir ni solucionar por la buena voluntad de un solo personaj… https://t.co/Qr8Gf89G6d	140	2019-04-18 03:24:00	Buffer	16	8
-1118714015486742528	Los detenidos, vinculados al asesinato del periodista Omar Iván Camacho, fueron trasladados al Centro de Justicia P… https://t.co/gQFHeObT0S	140	2019-04-18 03:13:00	Buffer	16	7
-1118711248697397248	RT @ElSabuesoAP: ¿Realmente la creación de empleos en el primer trimestre de 2019 fue la más alta en 10 años?, tal como lo dijo @lopezobrad…	140	2019-04-18 03:02:00	Buffer	0	62
-1118708734665142274	Estas son acciones de “cultivo inteligente” para ahorrar agua y lograr cosechas sostenibles con el medio ambiente,… https://t.co/xtlAzY7wTp	139	2019-04-18 02:52:01	Buffer	17	5
-1118705961747845120	#Plumaje | La Ley de la #GuardiaNacional deberá ser clara y contundente respecto a que sus integrantes, incluido su… https://t.co/osnZE6PrVG	140	2019-04-18 02:41:00	Buffer	14	5
-1118703240676294656	"Hace 100 años nació Chavela Vargas, la mujer que se fue porque le dio la gana
+#BlogInvitado. https://t.co/FMsKhDzA2Q",124,2019-04-18 03:46:00,Buffer,15,5
+1118719552043520006,"Un baño helado a las 5 de la mañana y una comida al día: la rutina de Jack Dorsey, presidente ejecutivo de Twitter.… https://t.co/0EEpncRTMm",140,2019-04-18 03:35:00,Buffer,150,40
+1118716784041963520,#Plumaje | La nueva realidad del país no se podrá construir ni solucionar por la buena voluntad de un solo personaj… https://t.co/Qr8Gf89G6d,140,2019-04-18 03:24:00,Buffer,17,9
+1118714015486742528,"Los detenidos, vinculados al asesinato del periodista Omar Iván Camacho, fueron trasladados al Centro de Justicia P… https://t.co/gQFHeObT0S",140,2019-04-18 03:13:00,Buffer,16,7
+1118711248697397248,"RT @ElSabuesoAP: ¿Realmente la creación de empleos en el primer trimestre de 2019 fue la más alta en 10 años?, tal como lo dijo @lopezobrad…",140,2019-04-18 03:02:00,Buffer,0,62
+1118708734665142274,"Estas son acciones de “cultivo inteligente” para ahorrar agua y lograr cosechas sostenibles con el medio ambiente,… https://t.co/xtlAzY7wTp",139,2019-04-18 02:52:01,Buffer,17,5
+1118705961747845120,"#Plumaje | La Ley de la #GuardiaNacional deberá ser clara y contundente respecto a que sus integrantes, incluido su… https://t.co/osnZE6PrVG",140,2019-04-18 02:41:00,Buffer,14,5
+1118703240676294656,"Hace 100 años nació Chavela Vargas, la mujer que se fue porque le dio la gana
 
 Lee: https://t.co/4j6GziLc7r
 
-Vía… https://t.co/ZuN0QBe8oz"	137	2019-04-18 02:30:11	Buffer	37	9
-1118700425132347392	#Plumaje | Hay que leer la Cartilla moral, aceptando la propuesta de tomarla en cuenta, pero también hay que leerla… https://t.co/z5YG3L5FqK	140	2019-04-18 02:19:00	Buffer	10	9
-1118697656761692160	Si el memorándum para cancelar la reforma educativa de @EPN es ilegal, que la oposición denuncie o se ampare ante i… https://t.co/EorTIlGPyM	140	2019-04-18 02:08:00	Buffer	397	119
-1118694888688713728	#Plumaje | La diferencia entre el SESNP, el INEGI y los datos de la #ConferenciaMatutina: lo que dicen de la violen… https://t.co/VqiWijXzpW	140	2019-04-18 01:57:00	Buffer	11	6
-1118693435739967489	"#LoÚltimo | Por segundo día consecutivo, se mantiene la #ContingenciaAmbiental en el Valle de México.
+Vía… https://t.co/ZuN0QBe8oz",137,2019-04-18 02:30:11,Buffer,37,9
+1118700425132347392,"#Plumaje | Hay que leer la Cartilla moral, aceptando la propuesta de tomarla en cuenta, pero también hay que leerla… https://t.co/z5YG3L5FqK",140,2019-04-18 02:19:00,Buffer,10,9
+1118697656761692160,"Si el memorándum para cancelar la reforma educativa de @EPN es ilegal, que la oposición denuncie o se ampare ante i… https://t.co/EorTIlGPyM",140,2019-04-18 02:08:00,Buffer,410,126
+1118694888688713728,"#Plumaje | La diferencia entre el SESNP, el INEGI y los datos de la #ConferenciaMatutina: lo que dicen de la violen… https://t.co/VqiWijXzpW",140,2019-04-18 01:57:00,Buffer,11,6
+1118693435739967489,"#LoÚltimo | Por segundo día consecutivo, se mantiene la #ContingenciaAmbiental en el Valle de México.
 
-¿Qué estamos… https://t.co/yQscx779Uo"	140	2019-04-18 01:51:14	Twitter Web Client	7	13
-1118692122394275840	Con cerca de 14 mil pesos en promedio, Ciencias Biológicas y Arquitectura son las carreras mejor pagadas en México.… https://t.co/3EEXIDTsmY	140	2019-04-18 01:46:00	Buffer	28	10
-1118689353998446594	#Plumaje | ¿Es el #MeTooMx un ataque hacia los hombres?, ¿realmente muchos hombres actúan de esa forma?, ¿es sufici… https://t.co/91lVsdArjd	140	2019-04-18 01:35:00	Buffer	8	4
-1118686584830943232	Tres comisionados de Energía han renunciado desde que inició el @GobiernoMX, encabezado por @lopezobrador_. https://t.co/WB9wgkrILz	131	2019-04-18 01:24:00	Buffer	55	28
-1118683819329105921	#Plumaje | La nueva arquitectura del poder requiere cimientos institucionales fuertes. Un texto de Elio Villaseñor.… https://t.co/VKhcAE73Bj	140	2019-04-18 01:13:01	Buffer	3	1
-1118681050815893504	¡Paga precio justo! La @Profeco lanza herramienta para comparar costos en pescados y mariscos. https://t.co/r92TGKuW8i	118	2019-04-18 01:02:01	Buffer	13	5
-1118678282562691072	Ayer, un tribunal liberó orden de aprehensión contra el exgobernador poblano Mario Marín y Kamel Nacif, por delito… https://t.co/PTAi3DOBPV	139	2019-04-18 00:51:01	Buffer	307	125
-1118675572773851136	La @FGE_Veracruz localiza al menos 36 fosas clandestinas en un predio de Veracruz; descubrimiento se dio por denunc… https://t.co/tF6Djzkf4t	140	2019-04-18 00:40:15	Buffer	23	26
-1118672747259940865	El proyecto “Hack against Hunger”, de la @FAOAmericas, invita a jóvenes a desarrollar soluciones que aborden los re… https://t.co/oqH6q0Cahv	140	2019-04-18 00:29:01	Buffer	11	12
-1118669722952830982	Gasolineras que el @GobiernoMX incluyó en el listado de precios más bajos están cerradas o clausuradas;… https://t.co/i6pRCVrjtW	128	2019-04-18 00:17:00	Buffer	128	90
-1118666955177775107	Conoce más sobre las imponentes gárgolas de #NotreDame, @bbcmundo te cuenta. https://t.co/d7hTXxuR6z	100	2019-04-18 00:06:00	Buffer	18	8
-1118664437064400897	Investigadores de @CEDRSSA advierten que es necesario modificar los métodos de producción agropecuaria en México, a… https://t.co/jTGd28hsvs	140	2019-04-17 23:56:00	Buffer	25	14
-1118661672921702403	¡A echarse un chapuzón! Estas son las playas más limpias de México; las de Baja California Norte y Sur encabezan la… https://t.co/OXUJ3GG8l3	140	2019-04-17 23:45:01	Buffer	41	23
-1118658903930286081	Depuración de policías pendiente: en México 1 de cada 5 elementos en activo no cumple con el requisito de control d… https://t.co/GDHLftgdYh	140	2019-04-17 23:34:01	Buffer	71	57
-1118656133525397505	"Toma precauciones en vacaciones: estas son las carreteras federales con más asaltos. 
- https://t.co/86e4o64FM4"	110	2019-04-17 23:23:00	Buffer	15	11
-1118653364600999942	A 5 años de su muerte, te contamos por qué Gabriel García Márquez nunca quiso que filmaran '100 años de soledad', t… https://t.co/mNcnopiGq5	140	2019-04-17 23:12:00	Buffer	49	21
-1118650599371870208	"30 hombres armados atacan una comandancia en Chihuahua; hay dos muertos.
- https://t.co/e1VLd7ZLES"	97	2019-04-17 23:01:01	Buffer	21	12
-1118647829239562241	"¿Eres de los que revisa el siguiente puente aún cuando está de vacaciones?
+¿Qué estamos… https://t.co/yQscx779Uo",140,2019-04-18 01:51:14,Twitter Web Client,7,13
+1118692122394275840,"Con cerca de 14 mil pesos en promedio, Ciencias Biológicas y Arquitectura son las carreras mejor pagadas en México.… https://t.co/3EEXIDTsmY",140,2019-04-18 01:46:00,Buffer,28,10
+1118689353998446594,"#Plumaje | ¿Es el #MeTooMx un ataque hacia los hombres?, ¿realmente muchos hombres actúan de esa forma?, ¿es sufici… https://t.co/91lVsdArjd",140,2019-04-18 01:35:00,Buffer,8,4
+1118686584830943232,"Tres comisionados de Energía han renunciado desde que inició el @GobiernoMX, encabezado por @lopezobrador_. https://t.co/WB9wgkrILz",131,2019-04-18 01:24:00,Buffer,57,28
+1118683819329105921,#Plumaje | La nueva arquitectura del poder requiere cimientos institucionales fuertes. Un texto de Elio Villaseñor.… https://t.co/VKhcAE73Bj,140,2019-04-18 01:13:01,Buffer,3,1
+1118681050815893504,¡Paga precio justo! La @Profeco lanza herramienta para comparar costos en pescados y mariscos. https://t.co/r92TGKuW8i,118,2019-04-18 01:02:01,Buffer,13,5
+1118678282562691072,"Ayer, un tribunal liberó orden de aprehensión contra el exgobernador poblano Mario Marín y Kamel Nacif, por delito… https://t.co/PTAi3DOBPV",139,2019-04-18 00:51:01,Buffer,316,131
+1118675572773851136,La @FGE_Veracruz localiza al menos 36 fosas clandestinas en un predio de Veracruz; descubrimiento se dio por denunc… https://t.co/tF6Djzkf4t,140,2019-04-18 00:40:15,Buffer,23,27
+1118672747259940865,"El proyecto “Hack against Hunger”, de la @FAOAmericas, invita a jóvenes a desarrollar soluciones que aborden los re… https://t.co/oqH6q0Cahv",140,2019-04-18 00:29:01,Buffer,11,12
+1118669722952830982,Gasolineras que el @GobiernoMX incluyó en el listado de precios más bajos están cerradas o clausuradas;… https://t.co/i6pRCVrjtW,128,2019-04-18 00:17:00,Buffer,129,93
+1118666955177775107,"Conoce más sobre las imponentes gárgolas de #NotreDame, @bbcmundo te cuenta. https://t.co/d7hTXxuR6z",100,2019-04-18 00:06:00,Buffer,19,8
+1118664437064400897,"Investigadores de @CEDRSSA advierten que es necesario modificar los métodos de producción agropecuaria en México, a… https://t.co/jTGd28hsvs",140,2019-04-17 23:56:00,Buffer,25,14
+1118661672921702403,¡A echarse un chapuzón! Estas son las playas más limpias de México; las de Baja California Norte y Sur encabezan la… https://t.co/OXUJ3GG8l3,140,2019-04-17 23:45:01,Buffer,42,24
+1118658903930286081,Depuración de policías pendiente: en México 1 de cada 5 elementos en activo no cumple con el requisito de control d… https://t.co/GDHLftgdYh,140,2019-04-17 23:34:01,Buffer,72,60
+1118656133525397505,"Toma precauciones en vacaciones: estas son las carreteras federales con más asaltos. 
+ https://t.co/86e4o64FM4",110,2019-04-17 23:23:00,Buffer,15,11
+1118653364600999942,"A 5 años de su muerte, te contamos por qué Gabriel García Márquez nunca quiso que filmaran '100 años de soledad', t… https://t.co/mNcnopiGq5",140,2019-04-17 23:12:00,Buffer,49,21
+1118650599371870208,"30 hombres armados atacan una comandancia en Chihuahua; hay dos muertos.
+ https://t.co/e1VLd7ZLES",97,2019-04-17 23:01:01,Buffer,22,12
+1118647829239562241,"¿Eres de los que revisa el siguiente puente aún cuando está de vacaciones?
 
-Chécalos aquí. https://t.co/n9aw6ARUzR"	114	2019-04-17 22:50:00	Buffer	14	4
-1118645059740688384	Continúa la contingencia ambiental en la Ciudad de México; a las 8 de la noche habrá un nuevo informe. https://t.co/OyqbNZIWTj	126	2019-04-17 22:39:00	Buffer	26	8
-1118644231092998144	¿Qué es una #ContingenciaAmbiental y cuáles son las partículas contaminantes que respiramos a diario en la Ciudad d… https://t.co/gqUnUw4SY6	140	2019-04-17 22:35:42	Buffer	25	20
-1118642294326996995	Playa Suave y Hornos, en Acapulco; Playa Principal, en Puerto Escondido... estas y otras son las más sucias de Méxi… https://t.co/8EW8TmtUdm	140	2019-04-17 22:28:00	Buffer	11	10
-1118639526547685376	Avengers: Endgame está a la vuelta de la esquina. @NewsweekEspanol hizo una guía para entender más el final... que… https://t.co/nzrH3BzGxB	139	2019-04-17 22:17:01	Buffer	25	6
-1118636756025401345	"¡Deja de batallar con tu maleta! Te damos los trucos infalibles para aprovechar cada espacio. 
+Chécalos aquí. https://t.co/n9aw6ARUzR",114,2019-04-17 22:50:00,Buffer,14,4
+1118645059740688384,Continúa la contingencia ambiental en la Ciudad de México; a las 8 de la noche habrá un nuevo informe. https://t.co/OyqbNZIWTj,126,2019-04-17 22:39:00,Buffer,26,8
+1118644231092998144,¿Qué es una #ContingenciaAmbiental y cuáles son las partículas contaminantes que respiramos a diario en la Ciudad d… https://t.co/gqUnUw4SY6,140,2019-04-17 22:35:42,Buffer,25,20
+1118642294326996995,"Playa Suave y Hornos, en Acapulco; Playa Principal, en Puerto Escondido... estas y otras son las más sucias de Méxi… https://t.co/8EW8TmtUdm",140,2019-04-17 22:28:00,Buffer,11,10
+1118639526547685376,Avengers: Endgame está a la vuelta de la esquina. @NewsweekEspanol hizo una guía para entender más el final... que… https://t.co/nzrH3BzGxB,139,2019-04-17 22:17:01,Buffer,25,6
+1118636756025401345,"¡Deja de batallar con tu maleta! Te damos los trucos infalibles para aprovechar cada espacio. 
 
-Por @bbcmundo. https://t.co/neinYAFVfx"	134	2019-04-17 22:06:00	Buffer	13	5
-1118633986430054401	"💃🏻🎶 Ne ne ne ne ne qué vas a ser cuando seas grande 🎵🎶💃🏻
+Por @bbcmundo. https://t.co/neinYAFVfx",134,2019-04-17 22:06:00,Buffer,13,5
+1118633986430054401,"💃🏻🎶 Ne ne ne ne ne qué vas a ser cuando seas grande 🎵🎶💃🏻
 
-Bueno... seré un adulto que hace una declaración anual. https://t.co/xE4emuTwLB"	137	2019-04-17 21:55:00	Buffer	23	5
-1118631221288947713	Pueblos originarios de Xochimilco buscan crear concejos de gobierno autónomo, para resolver problemas que autoridad… https://t.co/UD9IJegPhc	140	2019-04-17 21:44:00	Buffer	59	24
-1118628451295084544	La @FiscaliaSinaloa detiene a dos personas por su presunta participación en el asesinato del periodista deportivo O… https://t.co/xIP0TBjsFq	140	2019-04-17 21:33:00	Buffer	15	1
-1118625684086296583	Según portal de transparencia, funcionarios de @Pemex vinculados a #LaEstafaMaestra mantuvieron su nómina; ellos di… https://t.co/4D89X799HC	140	2019-04-17 21:22:00	Buffer	47	43
-1118623721269362688	Conoce sobre la red de colaboración entre científicos, agricultores, proveedores y autoridades, en acciones de “cul… https://t.co/jxp2lR0qbt	140	2019-04-17 21:14:12	Buffer	29	5
-1118621068288196608	"#LoÚltimo | La @FiscaliaSinaloa detiene a pareja acusada del homicidio del periodista Omar Iván Camacho.
+Bueno... seré un adulto que hace una declaración anual. https://t.co/xE4emuTwLB",137,2019-04-17 21:55:00,Buffer,23,5
+1118631221288947713,"Pueblos originarios de Xochimilco buscan crear concejos de gobierno autónomo, para resolver problemas que autoridad… https://t.co/UD9IJegPhc",140,2019-04-17 21:44:00,Buffer,59,25
+1118628451295084544,La @FiscaliaSinaloa detiene a dos personas por su presunta participación en el asesinato del periodista deportivo O… https://t.co/xIP0TBjsFq,140,2019-04-17 21:33:00,Buffer,16,1
+1118625684086296583,"Según portal de transparencia, funcionarios de @Pemex vinculados a #LaEstafaMaestra mantuvieron su nómina; ellos di… https://t.co/4D89X799HC",140,2019-04-17 21:22:00,Buffer,47,45
+1118623721269362688,"Conoce sobre la red de colaboración entre científicos, agricultores, proveedores y autoridades, en acciones de “cul… https://t.co/jxp2lR0qbt",140,2019-04-17 21:14:12,Buffer,29,5
+1118621068288196608,"#LoÚltimo | La @FiscaliaSinaloa detiene a pareja acusada del homicidio del periodista Omar Iván Camacho.
 
-Fue asesi… https://t.co/njtmhwK5fd"	140	2019-04-17 21:03:40	Twitter Web Client	27	10
-1118620172401745922	RT @animalgourmet: ¿Ya conoces #Cocineros? Si tu respuesta es NO, es hora de que los conozcas. Celia Florian es una cocinera tradicional oa…	140	2019-04-17 21:00:06	Buffer	0	10
-1118617637301440514	“Están en su derecho… si se comete una infracción o delito hay que presentar denuncias”, dijo @lopezobrador_ acerca… https://t.co/p8PEXt14Hu	140	2019-04-17 20:50:02	Buffer	34	9
-1118614618442752000	¿Qué hacer para mejorar nuestra calidad del sueño? @bbcmundo rompe 6 mitos y te explica cómo afectan tu salud.… https://t.co/ucJ50p3zfs	135	2019-04-17 20:38:02	Buffer	25	6
-1118611594487980033	Los más de 97 mil pacientes que reciben tratamiento para VIH en unidades de @SSalud_mx tienen garantizada la entreg… https://t.co/yD6nNuJqkp	140	2019-04-17 20:26:01	Buffer	14	16
-1118608575742599168	#GameOfThrones: 5 hechos históricos que inspiraron algunos de los momentos de la serie. 👇 https://t.co/CHAXXVRK5M https://t.co/v7hgszgVJo	137	2019-04-17 20:14:01	Buffer	6	0
-1118605551359922183	Guadalupe se realizaría una cesárea en el @INPer_mx, pero, aunque su embarazo era de alto riesgo, no la atendieron… https://t.co/7GBjj6Ykxo	139	2019-04-17 20:02:00	Buffer	16	27
-1118603041488478208	Los tres funcionarios de @Pemex relacionados con #LaEstafaMaestra fueron separados del cargo hasta el 11 de abril;… https://t.co/iKgI5iF9EG	139	2019-04-17 19:52:02	Buffer	14	4
-1118599763472076802	El expediente de @lopezobrador_, elaborado por la entonces Dirección Federal de Seguridad, revela que su salida del… https://t.co/r0rPWs7vSY	140	2019-04-17 19:39:00	Buffer	32	17
-1118596503583559680	Una nota llena de spoilers sobre Game of Thrones, pero que presenta 5 teorías descabelladas sobre el final de la se… https://t.co/QdZ8jSoi9U	140	2019-04-17 19:26:03	Buffer	17	2
-1118593221590958081	RT @NewsweekEspanol: Andrés Manuel López Obrador y la actriz Yalitza Aparicio ocupan un lugar en la lista de las 100 personas más influyent…	140	2019-04-17 19:13:01	Buffer	0	26
-1118589994636066819	Todas las playas del país son aptas para recibir turistas, aunque las más limpias están en Baja California, Baja Ca… https://t.co/T0hjggeQdy	140	2019-04-17 19:00:11	Buffer	51	24
-1118586933087756288	Xochimilco, la primera alcaldía de CDMX en la que sus pueblos originarios buscan el autogobierno.… https://t.co/n2564hdfeO	122	2019-04-17 18:48:01	Buffer	47	12
-1118583908172480513	La propuesta de Ley de la #GuardiaNacional entregada al Senado por el consejero jurídico de Presidencia planteó que… https://t.co/uEC4ptbq2E	140	2019-04-17 18:36:00	Buffer	20	11
-1118580890429530112	Ojo: @Claudiashein informó que a partir de las 18:00 horas de este miércoles todos los automóviles podrán circular… https://t.co/lJa0lxKhYg	139	2019-04-17 18:24:01	Buffer	24	14
-1118577872254439424	#Plumaje | ¿Cómo medir la violencia en 2019? @datacivica hizo una revisión de las principales fuentes de informació… https://t.co/g9moREpYib	140	2019-04-17 18:12:01	Buffer	3	0
-1118574972631494663	"RT @animalgourmet: Hacer un huerto en casa es más fácil de lo que crees, a la larga ahorras y cuidas tu alimentación. 😉🌱
-https://t.co/EbyKw…"	140	2019-04-17 18:00:30	Buffer	0	48
-1118572593701900291	Con un ingreso mensual de más de 13 mil pesos, Ciencias Biológicas y Arquitectura son las carreras mejor pagadas en… https://t.co/P0x53gfdYp	140	2019-04-17 17:51:03	Buffer	37	11
-1118569825956188160	La Ley de #GuardiaNacional contempla para esta nueva fuerza todas las funciones que actualmente están a cargo de la… https://t.co/tXRFkTjMg9	140	2019-04-17 17:40:03	Buffer	6	1
-1118567047062007809	¿Vas a viajar en autobús en esta #SemanaSanta? Ojo: Solo cuatro empresas controlan el 95% de las rutas que hay en e… https://t.co/5UzglvXyXO	140	2019-04-17 17:29:00	Buffer	36	45
-1118564286966661122	¿La creación de empleos en el primer trimestre del año fue la más alta en 10 años, como afirmó el presidente… https://t.co/1nSGUgfmrK	133	2019-04-17 17:18:02	Buffer	21	19
-1118561515865616384	El @Censida asegura que los medicamentos para personas con VIH están garantizados hasta junio de 2019, aunque el go… https://t.co/CFfhak8Ni7	140	2019-04-17 17:07:01	Buffer	18	7
-1118559244557664256	Ojo: La @CAMegalopolis informó que se mantiene la Fase 1 de #ContingenciaAmbiental en la Zona Metropolitana del Val… https://t.co/t3A2CF4m4E	140	2019-04-17 16:58:00	Buffer	15	11
-1118556483208269825	El gasto en publicidad del gobierno se redujo en un 50%, debido a la propuesta de autoridad de la actual administra… https://t.co/hQSkuvvWZr	140	2019-04-17 16:47:02	Buffer	15	3
-1118553711146565633	Investigadores del @CEDRSSA señalaron que, ante el cambio climático, es necesario modificar los medios de producció… https://t.co/iKvgGOKPJJ	140	2019-04-17 16:36:01	Buffer	25	12
-1118550945502248960	Ante el incremento del consumo de pescados y mariscos en Cuaresma, la @Profeco publica la lista de precios mínimos… https://t.co/smHONDGhrk	139	2019-04-17 16:25:01	Buffer	10	6
-1118548185247625217	¿Te imaginas ir al espacio y rejuvenecer? @bbcmundo te cuenta más sobre el caso del astronauta Scott Kelly.… https://t.co/iSFpsLH1Vg	132	2019-04-17 16:14:03	Buffer	13	4
-1118545411256586240	"La @PoliciaFedMx está en ""quiebra”: debe 2 mil 500 mdp de viáticos, gasolina y hasta indemnizaciones para sus eleme… https://t.co/fjKjncVeYF"	140	2019-04-17 16:03:02	Buffer	69	77
-1118542648158162947	"Hola, adulto, recuerda que el 30 de abril vence el plazo para que presentes tu declaración anual.
-Aquí todo lo que… https://t.co/pFDLf4JKmE"	139	2019-04-17 15:52:03	Buffer	15	10
-1118539866285969413	RT @NewsweekEspanol: #LoÚltimo | Medios locales reportan la muerte del expresidente de Perú, Alan García, tras dispararse un tiro en la cab…	140	2019-04-17 15:41:00	Buffer	0	31
-1118536858814775297	Dormir poco, beber para quedarse dormido o mirar televisión en la cama para relajarte, algunos de los mitos del sue… https://t.co/5llqpEjm6z	140	2019-04-17 15:29:03	Buffer	32	7
-1118534086874816512	"RT @animalgourmet: Los chefs Daniel Ovadia y Chava Orozco nos compartieron su receta de SHAKSHUKA. 🙌🏼🙌🏼🙌🏼
-¡Cámbiale al desayuno de siempre!…"	140	2019-04-17 15:18:02	Buffer	0	17
-1118531311810035712	"Estas son las empresas que venden más caros los combustibles, de acuerdo con la secretaria @rocionahle:
--Gasolina M… https://t.co/FHG0ucRJjG"	140	2019-04-17 15:07:00	Buffer	34	32
-1118528547717636098	El presidente @lopezobrador_ dijo que con el memorándum para que no se aplique la #ReformaEducativa quiso mandar un… https://t.co/qkp6CopdUF	140	2019-04-17 14:56:01	Buffer	16	7
-1118525785063739400	¿Viajarás a Acapulco, Guerrero, o a Puerto Escondido, Oaxaca? De acuerdo con la @COFEPRIS, en en dichos sitios turí… https://t.co/OnopzS7wuK	140	2019-04-17 14:45:03	Buffer	24	15
-1118523011718615041	.@bbcmundo te cuenta cómo es un día en la vida del presidente ejecutivo de Twitter, Jack Dorsey, quien tiene una fo… https://t.co/o8wU7rrXMy	140	2019-04-17 14:34:01	Buffer	15	2
-1118520244027392001	¿Sospechas que tu celular o tu tableta recoge tus conversaciones? Hackear los micrófonos para espiar a alguien es s… https://t.co/VcBSrhoX4t	140	2019-04-17 14:23:01	Buffer	34	21
-1118517476806017029	¿Es posible vivir un día en México sin hacer más rico a Carlos Slim? Las empresas del magnate están presentes en la… https://t.co/iI4DXKTXRB	140	2019-04-17 14:12:02	Buffer	66	40
-1118514708380835841	Miércoles de #ContingenciaAmbiental: Las autoridades prevén que para el medio día se incremente la velocidad del vi… https://t.co/0ShkwrJHek	140	2019-04-17 14:01:02	Buffer	10	10
-1118512435877617664	La @CDHDF investiga una queja interpuesta por la familia de una mujer con diagnóstico de embarazo de alto riesgo a… https://t.co/2RiaNs1pFL	139	2019-04-17 13:52:00	Buffer	25	13
-1118509671571185665	¡Atención, vacacionistas! En Baja California, Baja California Sur y Campeche se encuentran las playas más limpias,… https://t.co/k7V9R6s8uq	139	2019-04-17 13:41:01	Buffer	33	13
-1118506653731606529	Luego de que @lopezobrador_ negara que se pretenda cobrar a los estados por el apoyo de la #GuardiaNacional –que se… https://t.co/YKr5uXIixq	140	2019-04-17 13:29:01	Buffer	13	9
-1118503889035304960	#HoyEnAnimal | El presidente @lopezobrador_ afirmó que el incremento de empleos es el mayor visto desde hace 10 año… https://t.co/ExwPOex2Tr	140	2019-04-17 13:18:02	Buffer	56	46
-1118496744868700160	"@JesusRCuevas @lopezobrador_ ""Para dejar las cosas en claro, consideré conveniente escribir este memorándum. Nada d… https://t.co/rufnqMTDoc"	140	2019-04-17 12:49:39	TweetDeck	6	0
-1118496048270331904	@JesusRCuevas Acerca del memorándum que presentó ayer @lopezobrador_, el presidente dice que hay muchas opiniones a… https://t.co/x9Y89gYqNE	140	2019-04-17 12:46:53	TweetDeck	4	0
-1118493374271483904	@Elv00156723 @JesusRCuevas Buen día, Elv. No, la transmisión de la conferencia no retribuye económicamente a los me… https://t.co/bFMYHoK3IB	140	2019-04-17 12:36:15	TweetDeck	0	0
-1118492428950835200	"@JesusRCuevas ""Podemos ver cómo se concentraba la contratación de medios en unas cuantas empresas, nosotros queremo… https://t.co/IUFjwoZkaC"	140	2019-04-17 12:32:30	TweetDeck	4	3
-1118491445915049984	"""En el caso del presupuesto de 2019, que ya le toca a este gobierno... no se va a mover, no se pedirá ninguna ampli… https://t.co/lSl0oQCRly"	140	2019-04-17 12:28:35	TweetDeck	9	8
-1118491111150899202	En la #ConferenciaPresidente, @JesusRCuevas presenta las cifras en gasto de publicidad oficial de la administración… https://t.co/n2rhYpoj2g	140	2019-04-17 12:27:16	TweetDeck	21	17
-1118490783844147200	"@lopezobrador_ @rocionahle @JesusRCuevas ""Este gobierno nunca hará ninguna recomendación informativa a medios de co… https://t.co/cFX9Q5jo10"	140	2019-04-17 12:25:58	TweetDeck	15	5
-1118490399704666112	"@lopezobrador_ @rocionahle @JesusRCuevas ""Esto había sido una práctica del pasado, nunca más va a ocurrir. Hemos es… https://t.co/Jj9qhEMoOv"	140	2019-04-17 12:24:26	TweetDeck	16	4
-1118490031696404480	@lopezobrador_ @rocionahle Acerca de la estrategia de comunicación del presidente, el vocero @JesusRCuevas explica… https://t.co/YVlydW9CW9	139	2019-04-17 12:22:58	TweetDeck	10	1
-1118487941888626690	"@lopezobrador_ @rocionahle ""Sí existe, tenías tú la razón, pero ya se va a quitar para que no haya ninguna duda. Va… https://t.co/d1DwwJL0Pj"	140	2019-04-17 12:14:40	TweetDeck	16	6
-1118487637294108673	@lopezobrador_ @rocionahle También señala que, sobre la pregunta de un periodista de por qué se iba a cobrar a los… https://t.co/tjoyTH8JFe	139	2019-04-17 12:13:27	TweetDeck	8	5
-1118487053023338496	En la #ConferenciaPresidente, @lopezobrador_ reconoce que, del informe sobre gasolineras que dio a conocer… https://t.co/v2xo60B9gR	131	2019-04-17 12:11:08	TweetDeck	7	2
-1118485893050847234	Sigue la #ConferenciaPresidente aquí. 👇 https://t.co/tjUVyciuCJ	63	2019-04-17 12:06:32	TweetDeck	24	4
-1118485072514969602	"¡Buen día!, ¿cómo amanecieron?, ¿listos para disfrutar del puente? 
+Fue asesi… https://t.co/njtmhwK5fd",140,2019-04-17 21:03:40,Twitter Web Client,28,10
+1118620172401745922,"RT @animalgourmet: ¿Ya conoces #Cocineros? Si tu respuesta es NO, es hora de que los conozcas. Celia Florian es una cocinera tradicional oa…",140,2019-04-17 21:00:06,Buffer,0,10
+1118617637301440514,"“Están en su derecho… si se comete una infracción o delito hay que presentar denuncias”, dijo @lopezobrador_ acerca… https://t.co/p8PEXt14Hu",140,2019-04-17 20:50:02,Buffer,34,9
+1118614618442752000,¿Qué hacer para mejorar nuestra calidad del sueño? @bbcmundo rompe 6 mitos y te explica cómo afectan tu salud.… https://t.co/ucJ50p3zfs,135,2019-04-17 20:38:02,Buffer,26,6
+1118611594487980033,Los más de 97 mil pacientes que reciben tratamiento para VIH en unidades de @SSalud_mx tienen garantizada la entreg… https://t.co/yD6nNuJqkp,140,2019-04-17 20:26:01,Buffer,14,16
+1118608575742599168,#GameOfThrones: 5 hechos históricos que inspiraron algunos de los momentos de la serie. 👇 https://t.co/CHAXXVRK5M https://t.co/v7hgszgVJo,137,2019-04-17 20:14:01,Buffer,6,0
+1118605551359922183,"Guadalupe se realizaría una cesárea en el @INPer_mx, pero, aunque su embarazo era de alto riesgo, no la atendieron… https://t.co/7GBjj6Ykxo",139,2019-04-17 20:02:00,Buffer,16,27
+1118603041488478208,Los tres funcionarios de @Pemex relacionados con #LaEstafaMaestra fueron separados del cargo hasta el 11 de abril;… https://t.co/iKgI5iF9EG,139,2019-04-17 19:52:02,Buffer,14,4
+1118599763472076802,"El expediente de @lopezobrador_, elaborado por la entonces Dirección Federal de Seguridad, revela que su salida del… https://t.co/r0rPWs7vSY",140,2019-04-17 19:39:00,Buffer,32,17
+1118596503583559680,"Una nota llena de spoilers sobre Game of Thrones, pero que presenta 5 teorías descabelladas sobre el final de la se… https://t.co/QdZ8jSoi9U",140,2019-04-17 19:26:03,Buffer,17,2
+1118593221590958081,RT @NewsweekEspanol: Andrés Manuel López Obrador y la actriz Yalitza Aparicio ocupan un lugar en la lista de las 100 personas más influyent…,140,2019-04-17 19:13:01,Buffer,0,27
+1118589994636066819,"Todas las playas del país son aptas para recibir turistas, aunque las más limpias están en Baja California, Baja Ca… https://t.co/T0hjggeQdy",140,2019-04-17 19:00:11,Buffer,51,24
+1118586933087756288,"Xochimilco, la primera alcaldía de CDMX en la que sus pueblos originarios buscan el autogobierno.… https://t.co/n2564hdfeO",122,2019-04-17 18:48:01,Buffer,47,12
+1118583908172480513,La propuesta de Ley de la #GuardiaNacional entregada al Senado por el consejero jurídico de Presidencia planteó que… https://t.co/uEC4ptbq2E,140,2019-04-17 18:36:00,Buffer,20,11
+1118580890429530112,Ojo: @Claudiashein informó que a partir de las 18:00 horas de este miércoles todos los automóviles podrán circular… https://t.co/lJa0lxKhYg,139,2019-04-17 18:24:01,Buffer,24,14
+1118577872254439424,#Plumaje | ¿Cómo medir la violencia en 2019? @datacivica hizo una revisión de las principales fuentes de informació… https://t.co/g9moREpYib,140,2019-04-17 18:12:01,Buffer,3,0
+1118574972631494663,"RT @animalgourmet: Hacer un huerto en casa es más fácil de lo que crees, a la larga ahorras y cuidas tu alimentación. 😉🌱
+https://t.co/EbyKw…",140,2019-04-17 18:00:30,Buffer,0,48
+1118572593701900291,"Con un ingreso mensual de más de 13 mil pesos, Ciencias Biológicas y Arquitectura son las carreras mejor pagadas en… https://t.co/P0x53gfdYp",140,2019-04-17 17:51:03,Buffer,37,11
+1118569825956188160,La Ley de #GuardiaNacional contempla para esta nueva fuerza todas las funciones que actualmente están a cargo de la… https://t.co/tXRFkTjMg9,140,2019-04-17 17:40:03,Buffer,6,1
+1118567047062007809,¿Vas a viajar en autobús en esta #SemanaSanta? Ojo: Solo cuatro empresas controlan el 95% de las rutas que hay en e… https://t.co/5UzglvXyXO,140,2019-04-17 17:29:00,Buffer,36,45
+1118564286966661122,"¿La creación de empleos en el primer trimestre del año fue la más alta en 10 años, como afirmó el presidente… https://t.co/1nSGUgfmrK",133,2019-04-17 17:18:02,Buffer,21,19
+1118561515865616384,"El @Censida asegura que los medicamentos para personas con VIH están garantizados hasta junio de 2019, aunque el go… https://t.co/CFfhak8Ni7",140,2019-04-17 17:07:01,Buffer,18,7
+1118559244557664256,Ojo: La @CAMegalopolis informó que se mantiene la Fase 1 de #ContingenciaAmbiental en la Zona Metropolitana del Val… https://t.co/t3A2CF4m4E,140,2019-04-17 16:58:00,Buffer,15,11
+1118556483208269825,"El gasto en publicidad del gobierno se redujo en un 50%, debido a la propuesta de autoridad de la actual administra… https://t.co/hQSkuvvWZr",140,2019-04-17 16:47:02,Buffer,15,3
+1118553711146565633,"Investigadores del @CEDRSSA señalaron que, ante el cambio climático, es necesario modificar los medios de producció… https://t.co/iKvgGOKPJJ",140,2019-04-17 16:36:01,Buffer,25,12
+1118550945502248960,"Ante el incremento del consumo de pescados y mariscos en Cuaresma, la @Profeco publica la lista de precios mínimos… https://t.co/smHONDGhrk",139,2019-04-17 16:25:01,Buffer,10,6
+1118548185247625217,¿Te imaginas ir al espacio y rejuvenecer? @bbcmundo te cuenta más sobre el caso del astronauta Scott Kelly.… https://t.co/iSFpsLH1Vg,132,2019-04-17 16:14:03,Buffer,13,4
+1118545411256586240,"La @PoliciaFedMx está en ""quiebra”: debe 2 mil 500 mdp de viáticos, gasolina y hasta indemnizaciones para sus eleme… https://t.co/fjKjncVeYF",140,2019-04-17 16:03:02,Buffer,70,78
+1118542648158162947,"Hola, adulto, recuerda que el 30 de abril vence el plazo para que presentes tu declaración anual.
+Aquí todo lo que… https://t.co/pFDLf4JKmE",139,2019-04-17 15:52:03,Buffer,15,10
+1118539866285969413,"RT @NewsweekEspanol: #LoÚltimo | Medios locales reportan la muerte del expresidente de Perú, Alan García, tras dispararse un tiro en la cab…",140,2019-04-17 15:41:00,Buffer,0,31
+1118536858814775297,"Dormir poco, beber para quedarse dormido o mirar televisión en la cama para relajarte, algunos de los mitos del sue… https://t.co/5llqpEjm6z",140,2019-04-17 15:29:03,Buffer,33,7
+1118534086874816512,"RT @animalgourmet: Los chefs Daniel Ovadia y Chava Orozco nos compartieron su receta de SHAKSHUKA. 🙌🏼🙌🏼🙌🏼
+¡Cámbiale al desayuno de siempre!…",140,2019-04-17 15:18:02,Buffer,0,17
+1118531311810035712,"Estas son las empresas que venden más caros los combustibles, de acuerdo con la secretaria @rocionahle:
+-Gasolina M… https://t.co/FHG0ucRJjG",140,2019-04-17 15:07:00,Buffer,34,32
+1118528547717636098,El presidente @lopezobrador_ dijo que con el memorándum para que no se aplique la #ReformaEducativa quiso mandar un… https://t.co/qkp6CopdUF,140,2019-04-17 14:56:01,Buffer,16,7
+1118525785063739400,"¿Viajarás a Acapulco, Guerrero, o a Puerto Escondido, Oaxaca? De acuerdo con la @COFEPRIS, en en dichos sitios turí… https://t.co/OnopzS7wuK",140,2019-04-17 14:45:03,Buffer,24,15
+1118523011718615041,".@bbcmundo te cuenta cómo es un día en la vida del presidente ejecutivo de Twitter, Jack Dorsey, quien tiene una fo… https://t.co/o8wU7rrXMy",140,2019-04-17 14:34:01,Buffer,15,2
+1118520244027392001,¿Sospechas que tu celular o tu tableta recoge tus conversaciones? Hackear los micrófonos para espiar a alguien es s… https://t.co/VcBSrhoX4t,140,2019-04-17 14:23:01,Buffer,34,21
+1118517476806017029,¿Es posible vivir un día en México sin hacer más rico a Carlos Slim? Las empresas del magnate están presentes en la… https://t.co/iI4DXKTXRB,140,2019-04-17 14:12:02,Buffer,66,40
+1118514708380835841,Miércoles de #ContingenciaAmbiental: Las autoridades prevén que para el medio día se incremente la velocidad del vi… https://t.co/0ShkwrJHek,140,2019-04-17 14:01:02,Buffer,10,10
+1118512435877617664,La @CDHDF investiga una queja interpuesta por la familia de una mujer con diagnóstico de embarazo de alto riesgo a… https://t.co/2RiaNs1pFL,139,2019-04-17 13:52:00,Buffer,25,13
+1118509671571185665,"¡Atención, vacacionistas! En Baja California, Baja California Sur y Campeche se encuentran las playas más limpias,… https://t.co/k7V9R6s8uq",139,2019-04-17 13:41:01,Buffer,33,13
+1118506653731606529,Luego de que @lopezobrador_ negara que se pretenda cobrar a los estados por el apoyo de la #GuardiaNacional –que se… https://t.co/YKr5uXIixq,140,2019-04-17 13:29:01,Buffer,13,9
+1118503889035304960,#HoyEnAnimal | El presidente @lopezobrador_ afirmó que el incremento de empleos es el mayor visto desde hace 10 año… https://t.co/ExwPOex2Tr,140,2019-04-17 13:18:02,Buffer,56,46
+1118496744868700160,"@JesusRCuevas @lopezobrador_ ""Para dejar las cosas en claro, consideré conveniente escribir este memorándum. Nada d… https://t.co/rufnqMTDoc",140,2019-04-17 12:49:39,TweetDeck,6,0
+1118496048270331904,"@JesusRCuevas Acerca del memorándum que presentó ayer @lopezobrador_, el presidente dice que hay muchas opiniones a… https://t.co/x9Y89gYqNE",140,2019-04-17 12:46:53,TweetDeck,4,0
+1118493374271483904,"@Elv00156723 @JesusRCuevas Buen día, Elv. No, la transmisión de la conferencia no retribuye económicamente a los me… https://t.co/bFMYHoK3IB",140,2019-04-17 12:36:15,TweetDeck,0,0
+1118492428950835200,"@JesusRCuevas ""Podemos ver cómo se concentraba la contratación de medios en unas cuantas empresas, nosotros queremo… https://t.co/IUFjwoZkaC",140,2019-04-17 12:32:30,TweetDeck,4,3
+1118491445915049984,"""En el caso del presupuesto de 2019, que ya le toca a este gobierno... no se va a mover, no se pedirá ninguna ampli… https://t.co/lSl0oQCRly",140,2019-04-17 12:28:35,TweetDeck,9,8
+1118491111150899202,"En la #ConferenciaPresidente, @JesusRCuevas presenta las cifras en gasto de publicidad oficial de la administración… https://t.co/n2rhYpoj2g",140,2019-04-17 12:27:16,TweetDeck,21,17
+1118490783844147200,"@lopezobrador_ @rocionahle @JesusRCuevas ""Este gobierno nunca hará ninguna recomendación informativa a medios de co… https://t.co/cFX9Q5jo10",140,2019-04-17 12:25:58,TweetDeck,15,5
+1118490399704666112,"@lopezobrador_ @rocionahle @JesusRCuevas ""Esto había sido una práctica del pasado, nunca más va a ocurrir. Hemos es… https://t.co/Jj9qhEMoOv",140,2019-04-17 12:24:26,TweetDeck,16,4
+1118490031696404480,"@lopezobrador_ @rocionahle Acerca de la estrategia de comunicación del presidente, el vocero @JesusRCuevas explica… https://t.co/YVlydW9CW9",139,2019-04-17 12:22:58,TweetDeck,10,1
+1118487941888626690,"@lopezobrador_ @rocionahle ""Sí existe, tenías tú la razón, pero ya se va a quitar para que no haya ninguna duda. Va… https://t.co/d1DwwJL0Pj",140,2019-04-17 12:14:40,TweetDeck,16,6
+1118487637294108673,"@lopezobrador_ @rocionahle También señala que, sobre la pregunta de un periodista de por qué se iba a cobrar a los… https://t.co/tjoyTH8JFe",139,2019-04-17 12:13:27,TweetDeck,8,5
+1118487053023338496,"En la #ConferenciaPresidente, @lopezobrador_ reconoce que, del informe sobre gasolineras que dio a conocer… https://t.co/v2xo60B9gR",131,2019-04-17 12:11:08,TweetDeck,7,2
+1118485893050847234,Sigue la #ConferenciaPresidente aquí. 👇 https://t.co/tjUVyciuCJ,63,2019-04-17 12:06:32,TweetDeck,24,4
+1118485072514969602,"¡Buen día!, ¿cómo amanecieron?, ¿listos para disfrutar del puente? 
 
-Inicien este miércoles informándose acerca de… https://t.co/K5z5B0YMxZ"	139	2019-04-17 12:03:16	TweetDeck	25	4
-1118460342865145857	"14 Pueblos originarios de Xochimilco buscan el autogobierno, pese a obstáculos de la alcaldía. 
-https://t.co/3l2FSJcOvh"	119	2019-04-17 10:25:00	Buffer	18	10
-1118445495838441472	"Los 3 funcionarios de @Pemex participantes en #LaEstafaMaestra fueron separados del cargo el 11 de abril.
-https://t.co/A17aUC3duV"	129	2019-04-17 09:26:00	Buffer	22	16
-1118430898364583936	"Incendio en Notre Dame: 5 tesoros invaluables que alberga la catedral de París.
+Inicien este miércoles informándose acerca de… https://t.co/K5z5B0YMxZ",139,2019-04-17 12:03:16,TweetDeck,25,4
+1118460342865145857,"14 Pueblos originarios de Xochimilco buscan el autogobierno, pese a obstáculos de la alcaldía. 
+https://t.co/3l2FSJcOvh",119,2019-04-17 10:25:00,Buffer,18,10
+1118445495838441472,"Los 3 funcionarios de @Pemex participantes en #LaEstafaMaestra fueron separados del cargo el 11 de abril.
+https://t.co/A17aUC3duV",129,2019-04-17 09:26:00,Buffer,22,16
+1118430898364583936,"Incendio en Notre Dame: 5 tesoros invaluables que alberga la catedral de París.
 
 Por @bbcmundo. 
- https://t.co/d7hTXxuR6z"	121	2019-04-17 08:28:00	Buffer	5	2
-1118416052671647744	"López Obrador formaliza orden para suspender la aplicación de la reforma educativa de Peña Nieto. 
- https://t.co/zTgd3G6fxW"	123	2019-04-17 07:29:00	Buffer	13	1
-1118415799088295939	"¿Aún no has hecho tu declaración anual? Esto es lo que tienes que saber.
- https://t.co/xE4emuTwLB"	97	2019-04-17 07:28:00	Buffer	11	7
-1118401241758015490	"Giran orden de aprehensión contra Mario Marín y Kamel Nacif por presunta tortura. 
- https://t.co/69qfUkZL1E"	107	2019-04-17 06:30:09	Buffer	107	50
-1118386104879722496	"Gasolineras que el @GobiernoMX incluyó en lista con precios más bajos están cerradas o fueron clausuradas. 
- https://t.co/hGfqgtnNFr"	132	2019-04-17 05:30:00	Buffer	157	114
-1118382345973915648	¡Ahorra tiempo! Con la línea Smart Appliances, de Whirlpool, puedes controlar tus electrodomésticos con el celular.… https://t.co/kfizVXfU0i	140	2019-04-17 05:15:04	Buffer	7	3
-1118378807176646659	Ante el incremento del consumo de pescados y mariscos en Cuaresma, la @Profeco publica lista de precios mínimos y m… https://t.co/aBNqU9b6CG	140	2019-04-17 05:01:00	Buffer	16	6
-1118378314975129602	"Buenas noches, pajaritos. 
+ https://t.co/d7hTXxuR6z",121,2019-04-17 08:28:00,Buffer,5,2
+1118416052671647744,"López Obrador formaliza orden para suspender la aplicación de la reforma educativa de Peña Nieto. 
+ https://t.co/zTgd3G6fxW",123,2019-04-17 07:29:00,Buffer,13,1
+1118415799088295939,"¿Aún no has hecho tu declaración anual? Esto es lo que tienes que saber.
+ https://t.co/xE4emuTwLB",97,2019-04-17 07:28:00,Buffer,11,7
+1118401241758015490,"Giran orden de aprehensión contra Mario Marín y Kamel Nacif por presunta tortura. 
+ https://t.co/69qfUkZL1E",107,2019-04-17 06:30:09,Buffer,107,50
+1118386104879722496,"Gasolineras que el @GobiernoMX incluyó en lista con precios más bajos están cerradas o fueron clausuradas. 
+ https://t.co/hGfqgtnNFr",132,2019-04-17 05:30:00,Buffer,157,114
+1118382345973915648,"¡Ahorra tiempo! Con la línea Smart Appliances, de Whirlpool, puedes controlar tus electrodomésticos con el celular.… https://t.co/kfizVXfU0i",140,2019-04-17 05:15:04,Buffer,7,3
+1118378807176646659,"Ante el incremento del consumo de pescados y mariscos en Cuaresma, la @Profeco publica lista de precios mínimos y m… https://t.co/aBNqU9b6CG",140,2019-04-17 05:01:00,Buffer,16,6
+1118378314975129602,"Buenas noches, pajaritos. 
 
-Un gif de Selena antes de dormir, hoy que cumpliría 48 años 🌹. https://t.co/opgNHxfQwj"	114	2019-04-17 04:59:03	Buffer	314	32
-1118378303885332481	"RT @animalgourmet: Imagínate un pastel de zanahoria hecho galleta, ¡sí se puede! y aquí te dejamos la receta. 🥕 🥕 🥕 
-https://t.co/tdcsibQ26…"	140	2019-04-17 04:59:00	Buffer	0	7
-1118374784381988864	Renuncia otro comisionado de Energía; van tres en esta administración. https://t.co/WB9wgkrILz	94	2019-04-17 04:45:01	Buffer	48	17
-1118371760045469696	A lo largo de sus 850 años de historia, la catedral de Notre Dame de París ha acumulado piezas de inestimable valor… https://t.co/eoARbrrbM9	140	2019-04-17 04:33:00	Buffer	45	8
-1118371241495232512	⚠️ | Autoridades mantienen #contingenciaambiental; estos son los autos que no circulan mañana miércoles. https://t.co/OyqbNZIWTj	128	2019-04-17 04:30:56	Twitter for iPhone	8	4
-1118368488492535809	#ExpedienteAnimal | El @GobiernoMX declara inexistencia de planes y programas anunciados por @lopezobrador_, como E… https://t.co/Dxi1kP9HQ7	140	2019-04-17 04:20:00	Buffer	49	38
-1118365971985707008	Vamos a la playa oh, oh, oh 🎶🎵: ojo, estas son las playas más sucias de México (considéralo).  https://t.co/tD62hSjpYf	118	2019-04-17 04:10:00	Buffer	22	16
-1118362702492184576	La @PoliciaFedMx está en “quiebra”: debe casi 2 mil 500 millones y no tiene para pagar. https://t.co/kpurlPc7cG	111	2019-04-17 03:57:01	Buffer	79	63
-1118359930707283968	"Suman 17 cadáveres en fosas clandestinas halladas en habitaciones de una vecindad en Zapopan, Jalisco. 
+Un gif de Selena antes de dormir, hoy que cumpliría 48 años 🌹. https://t.co/opgNHxfQwj",114,2019-04-17 04:59:03,Buffer,315,32
+1118378303885332481,"RT @animalgourmet: Imagínate un pastel de zanahoria hecho galleta, ¡sí se puede! y aquí te dejamos la receta. 🥕 🥕 🥕 
+https://t.co/tdcsibQ26…",140,2019-04-17 04:59:00,Buffer,0,7
+1118374784381988864,Renuncia otro comisionado de Energía; van tres en esta administración. https://t.co/WB9wgkrILz,94,2019-04-17 04:45:01,Buffer,48,17
+1118371760045469696,"A lo largo de sus 850 años de historia, la catedral de Notre Dame de París ha acumulado piezas de inestimable valor… https://t.co/eoARbrrbM9",140,2019-04-17 04:33:00,Buffer,45,8
+1118371241495232512,⚠️ | Autoridades mantienen #contingenciaambiental; estos son los autos que no circulan mañana miércoles. https://t.co/OyqbNZIWTj,128,2019-04-17 04:30:56,Twitter for iPhone,8,4
+1118368488492535809,"#ExpedienteAnimal | El @GobiernoMX declara inexistencia de planes y programas anunciados por @lopezobrador_, como E… https://t.co/Dxi1kP9HQ7",140,2019-04-17 04:20:00,Buffer,50,38
+1118365971985707008,"Vamos a la playa oh, oh, oh 🎶🎵: ojo, estas son las playas más sucias de México (considéralo).  https://t.co/tD62hSjpYf",118,2019-04-17 04:10:00,Buffer,22,16
+1118362702492184576,La @PoliciaFedMx está en “quiebra”: debe casi 2 mil 500 millones y no tiene para pagar. https://t.co/kpurlPc7cG,111,2019-04-17 03:57:01,Buffer,79,63
+1118359930707283968,"Suman 17 cadáveres en fosas clandestinas halladas en habitaciones de una vecindad en Zapopan, Jalisco. 
 
- https://t.co/VALtANntZp"	129	2019-04-17 03:46:00	Buffer	23	34
-1118357163171360774	"RT @ElSabuesoAP: En #ConferenciaMatutina, @lopezobrador_ presumió baja en inseguridad, pero los datos lo desmienten.
-https://t.co/Y7oCCterlH"	140	2019-04-17 03:35:00	Buffer	0	91
-1118354911463448576	#LoÚltimo | Se mantiene #ContingenciaAmbiental en el Valle de México, informa @CAMegalopolis. https://t.co/mzLOHIjhDv	117	2019-04-17 03:26:03	Twitter for iPhone	15	9
-1118354397820608512	No pagues ni un pesito más: con esta herramienta de @Profeco puedes comparar los precios máximos y mínimos de las v… https://t.co/jFNBbM499X	140	2019-04-17 03:24:01	Buffer	25	10
-1118351626773905408	Lo que tienes que saber sobre tu declaración anual, que debes hacer antes de que termine abril. https://t.co/xE4emuTwLB	119	2019-04-17 03:13:00	Buffer	30	14
-1118348860718551040	"RT @NewsweekEspanol: El incendio que destruyó gran parte del techo de Notre Dame y derrumbó una aguja se extinguió luego de nueve horas.
-ht…"	140	2019-04-17 03:02:00	Buffer	0	6
-1118346341476913152	Luego de sus declaraciones de ayer, dice @lopezobrador_ que se refería a ejercer su derecho de réplica y que no hab… https://t.co/YWLqIiB2QF	140	2019-04-17 02:52:00	Buffer	39	7
-1118343576629465090	Ayer el @GobiernoMX dio un listado de gasolineras con precios bajos... algunas de ellas están cerradas o fueron cla… https://t.co/G9Aqs8DIts	140	2019-04-17 02:41:01	Buffer	79	54
-1118342385581395970	"1 de cada 5 policías en México no cumple con certificado en control de confianza.
- https://t.co/g81KdoqTEy"	106	2019-04-17 02:36:17	Buffer	40	42
-1118326963620311041	14 pueblos originarios en Xochimilco denuncian escasez de servicios, falta de escuela, mercados; buscan independenc… https://t.co/hXJj9tGPMf	140	2019-04-17 01:35:00	Twitter Media Studio	40	30
-1118324200492666880	#ContingenciaAmbiental | Estas son las partículas contaminantes que respiramos a diario. Lee más:… https://t.co/3FPlgL9dxB	122	2019-04-17 01:24:01	Buffer	37	31
-1118321430234578944	A 13 años de los hechos, giran orden de aprehensión contra Mario Marín y Kamel Nacif por presunta tortura contra la… https://t.co/QhW1U2KtLc	140	2019-04-17 01:13:01	Buffer	432	208
-1118318660324593664	Sin dar motivos, renuncia Guillermo Zúñiga, integrante de la @CRE_Mexico; van tres desde que inició el @GobiernoMX. https://t.co/WB9wgkrILz	139	2019-04-17 01:02:00	Buffer	116	95
-1118315890599243777	Investigadores advierten que es necesario modificar los métodos de producción agropecuaria en México, ante los efec… https://t.co/5prbLoas6E	140	2019-04-17 00:51:00	Buffer	98	54
-1118313122631122944	"Suman 17 cuerpos hallados en fosas ubicadas dentro de una vecindad cerca de avenida Patria, en Zapopan, Jalisco.
- https://t.co/VALtANntZp"	137	2019-04-17 00:40:00	Buffer	14	20
-1118310354180812800	#Plumaje | Es una tradición que en Semana Santa algunos católicos, religiosas, religiosos y sacerdotes hagan ejerci… https://t.co/LzYX4a1PzD	140	2019-04-17 00:29:00	Buffer	11	4
-1118307336987250694	¿Viajarás a la playa? Dos playas de Guerrero, dos de Oaxaca y una de Veracruz encabezan la lista de las más sucias… https://t.co/xtRPm9LRlo	139	2019-04-17 00:17:00	Buffer	22	12
-1118304568146788352	López Obrador firma memorándum y formaliza orden para suspender la aplicación de la reforma educativa de Peña Nieto… https://t.co/nXHKBUv4Zw	140	2019-04-17 00:06:00	Buffer	25	15
-1118302049970552833	En Ciudad de México respiramos a diario humo, polen, piel muerta y hasta heces fecales: te explicamos sobre los con… https://t.co/wAjw9JidQt	140	2019-04-16 23:56:00	Buffer	56	63
-1118299284716310530	"😷 | Autoridades activan la cuarta contingencia ambiental de 2019, en Ciudad de México. 
-https://t.co/OyqbNZIWTj"	111	2019-04-16 23:45:01	Buffer	22	35
-1118293808230346753	El presidente de Francia, Emmanuel Macron, dice que la catedral de #NotreDame se reconstruirá en 5 años. Por… https://t.co/DMjkm9eNyv	133	2019-04-16 23:23:15	Buffer	31	10
-1118293745257070593	Desde reliquias sagradas hasta gárgolas: 5 tesoros invaluables que alberga la catedral de #NotreDame. Por @bbcmundo. https://t.co/d7hTXxuR6z	140	2019-04-16 23:23:00	Buffer	17	10
-1118290976349544449	Las compañías de Slim acompañan a los mexicanos en todo momento, ¿es posible vivir un día sin hacerlo más rico? Por… https://t.co/j2jpBa9tuf	140	2019-04-16 23:12:00	Buffer	398	197
-1118288949825421313	#LoÚltimo | Por muy mala calidad del aire, se activa contingencia ambiental en la Ciudad de México. https://t.co/zJYjQCYlnU	123	2019-04-16 23:03:57	Twitter for iPhone	13	11
-1118288289956618246	Lo que necesitabas saber en Cuaresma: la @Profeco publica comparativo de precios en pescados y mariscos. https://t.co/r92TGKuW8i	128	2019-04-16 23:01:19	Buffer	11	5
-1118287830776733702	"RT @Aire_CDMX: Mar 17:00
-En la mayor parte de la #CDMX y zona conurbada la #CalidadDelAire es MALA. En la #Alcaldía de #Azcapotzalco es MUY…"	140	2019-04-16 22:59:30	Twitter for iPhone	0	26
-1118285441118146560	"#Plumaje | ""Rechazamos enérgicamente cualquier opción de capacitación de docentes que genere un lucro que solo bene… https://t.co/oLenLUZuTy"	140	2019-04-16 22:50:00	Buffer	12	13
-1118282676362829824	México se acerca al desarrollo de nodos agrícolas climáticamente inteligentes. https://t.co/fHjhJw1Dra https://t.co/JuOnAE85ZC	126	2019-04-16 22:39:01	Buffer	42	15
-1118279904896983040	El negar la cancelación de un contrato, no brindar los servicios y no respetar los términos y condiciones, entre la… https://t.co/9tPnV2FiaX	140	2019-04-16 22:28:00	Buffer	22	16
-1118277139370000387	"#Plumaje | Calvin Schermerhorn hace una reflexión sobre las disculpas de países por crímenes del pasado, ""un tema q… https://t.co/GPWtJOoOWK"	140	2019-04-16 22:17:01	Buffer	5	4
-1118274367102885888	Por el presunto delito de tortura en agravio de la periodista Lydia Cacho, giran orden de aprehensión contra Mario… https://t.co/nSCq6LKHND	139	2019-04-16 22:06:00	Buffer	346	159
-1118271601563324416	"Xochimilco, la primera alcaldía de Ciudad de México en la que sus pueblos originarios buscan el autogobierno.
-https://t.co/3l2FSJcOvh"	133	2019-04-16 21:55:00	Buffer	50	28
-1118268832408322050	Algunas gasolineras que fueron incluidas en el listado de precios bajos y que ayer presentó el @GobiernoMX están ce… https://t.co/8Rl1Gi9obT	140	2019-04-16 21:44:00	Buffer	142	97
-1118266064587120641	La @PoliciaFedMx reconoce que tiene un adeudo de casi 2 mil 500 mdp por pagos pendientes en múltiples conceptos, de… https://t.co/Ua0D1bn9L6	140	2019-04-16 21:33:00	Buffer	26	26
-1118263296149344256	"Hola, adulto, recuerda que el 30 de abril vence el plazo para que presentes tu declaración anual.
-
-Aquí todo lo que… https://t.co/bZrTecht8I"	140	2019-04-16 21:22:00	Buffer	41	17
-1118261453633593344	Los avances digitales ofrecen servicios para revolucionar la agricultura y novedosas oportunidades de empleo rural… https://t.co/SwawKPb62F	139	2019-04-16 21:14:41	Buffer	11	3
-1118258929153212418	@BLANCANIEVRES @lydiacachosi Gracias, lo hemos corregido.	57	2019-04-16 21:04:39	Twitter for iPhone	1	0
-1118257940283252736	Dos policías municipales y un empleado de @BANSEFI murieron tras el intento de robo; implementan operativo de búsqu… https://t.co/WhlVUTdUvm	140	2019-04-16 21:00:43	Buffer	13	12
-1118255243878371330	"RT @animalgourmet: Disfruta tus días libres en algunos de estos hoteles con alberca en la CDMX.
-https://t.co/duApfJQsLu https://t.co/SoQoTz…"	140	2019-04-16 20:50:00	Buffer	0	3
-1118252234599489538	"¿Cuáles son las carreras mejor pagadas, de acuerdo con la @STPS_mx? 
-- Ciencias biológicas.
-- Arquitectura, urbanis… https://t.co/e1Ca8ou71p"	140	2019-04-16 20:38:03	Buffer	21	7
-1118249204290412549	Al menos tres de las gasolineras incluidas en la lista de las que venden más barata la gasolina, de acuerdo con la… https://t.co/bH94OwWvQm	139	2019-04-16 20:26:01	Buffer	53	47
-1118246187994374144	#GamesOfThrones | 5 hechos históricos que inspiraron algunos de los mejores momentos de la serie. Por: @bbcmundo.… https://t.co/Q3POzwECNl	138	2019-04-16 20:14:01	Buffer	21	7
-1118243169093734402	Tribunal de Quintana Roo libera orden de aprehensión contra el exgobernador de Puebla, Mario Marín, y el empresario… https://t.co/f5XmJGwzbI	140	2019-04-16 20:02:02	Buffer	129	78
-1118240652544958464	Ojo si estas vacaciones irás a Bahía de Banderas, Nayarit: la playa Sayulita se encuentra bajo vigilancia sanitaria… https://t.co/XrksWI2d2n	140	2019-04-16 19:52:02	Buffer	34	27
-1118237379368767490	¿Es posible vivir un día en México sin hacer más rico a Carlos Slim? Sus empresas están presentes en la mayoría de… https://t.co/a03EVgGFtC	139	2019-04-16 19:39:01	Buffer	26	11
-1118234102413631488	El presidente aseguró que algunos malinterpretaron su mensaje sobre los periodistas e insistió que él se refirió a… https://t.co/LhpynGOefB	139	2019-04-16 19:26:00	Buffer	37	15
-1118230834409037825	#NotreDame es más que uno de los edificios icónicos de París. @bbcmundo te cuenta sobre las 5 piezas más valiosas q… https://t.co/Rk6Te3cjMH	140	2019-04-16 19:13:01	Buffer	30	10
-1118227572012220418	Ya son 17 los cuerpos localizados en fosas clandestinas en una vecindad en el municipio de Zapopan, Jalisco.… https://t.co/wjq74o80Vc	133	2019-04-16 19:00:03	Buffer	13	9
-1118224544878202880	#Plumaje | El tema de pedir que un país se disculpe por abusos que se cometieron en el pasado toca de cerca a Estad… https://t.co/u7vCDMAaP2	140	2019-04-16 18:48:01	Buffer	8	4
+ https://t.co/VALtANntZp",129,2019-04-17 03:46:00,Buffer,23,34
+1118357163171360774,"RT @ElSabuesoAP: En #ConferenciaMatutina, @lopezobrador_ presumió baja en inseguridad, pero los datos lo desmienten.
+https://t.co/Y7oCCterlH",140,2019-04-17 03:35:00,Buffer,0,91
+1118354911463448576,"#LoÚltimo | Se mantiene #ContingenciaAmbiental en el Valle de México, informa @CAMegalopolis. https://t.co/mzLOHIjhDv",117,2019-04-17 03:26:03,Twitter for iPhone,15,9
+1118354397820608512,No pagues ni un pesito más: con esta herramienta de @Profeco puedes comparar los precios máximos y mínimos de las v… https://t.co/jFNBbM499X,140,2019-04-17 03:24:01,Buffer,25,10
+1118351626773905408,"Lo que tienes que saber sobre tu declaración anual, que debes hacer antes de que termine abril. https://t.co/xE4emuTwLB",119,2019-04-17 03:13:00,Buffer,30,14
+1118348860718551040,"RT @NewsweekEspanol: El incendio que destruyó gran parte del techo de Notre Dame y derrumbó una aguja se extinguió luego de nueve horas.
+ht…",140,2019-04-17 03:02:00,Buffer,0,6
+1118346341476913152,"Luego de sus declaraciones de ayer, dice @lopezobrador_ que se refería a ejercer su derecho de réplica y que no hab… https://t.co/YWLqIiB2QF",140,2019-04-17 02:52:00,Buffer,39,7
+1118343576629465090,Ayer el @GobiernoMX dio un listado de gasolineras con precios bajos... algunas de ellas están cerradas o fueron cla… https://t.co/G9Aqs8DIts,140,2019-04-17 02:41:01,Buffer,79,54
+1118342385581395970,"1 de cada 5 policías en México no cumple con certificado en control de confianza.
+ https://t.co/g81KdoqTEy",106,2019-04-17 02:36:17,Buffer,40,42
+1118326963620311041,"14 pueblos originarios en Xochimilco denuncian escasez de servicios, falta de escuela, mercados; buscan independenc… https://t.co/hXJj9tGPMf",140,2019-04-17 01:35:00,Twitter Media Studio,40,30
+1118324200492666880,#ContingenciaAmbiental | Estas son las partículas contaminantes que respiramos a diario. Lee más:… https://t.co/3FPlgL9dxB,122,2019-04-17 01:24:01,Buffer,37,31
+1118321430234578944,"A 13 años de los hechos, giran orden de aprehensión contra Mario Marín y Kamel Nacif por presunta tortura contra la… https://t.co/QhW1U2KtLc",140,2019-04-17 01:13:01,Buffer,432,208
+1118318660324593664,"Sin dar motivos, renuncia Guillermo Zúñiga, integrante de la @CRE_Mexico; van tres desde que inició el @GobiernoMX. https://t.co/WB9wgkrILz",139,2019-04-17 01:02:00,Buffer,117,96
+1118315890599243777,"Investigadores advierten que es necesario modificar los métodos de producción agropecuaria en México, ante los efec… https://t.co/5prbLoas6E",140,2019-04-17 00:51:00,Buffer,98,54
+1118313122631122944,"Suman 17 cuerpos hallados en fosas ubicadas dentro de una vecindad cerca de avenida Patria, en Zapopan, Jalisco.
+ https://t.co/VALtANntZp",137,2019-04-17 00:40:00,Buffer,14,20
+1118310354180812800,"#Plumaje | Es una tradición que en Semana Santa algunos católicos, religiosas, religiosos y sacerdotes hagan ejerci… https://t.co/LzYX4a1PzD",140,2019-04-17 00:29:00,Buffer,11,4
+1118307336987250694,"¿Viajarás a la playa? Dos playas de Guerrero, dos de Oaxaca y una de Veracruz encabezan la lista de las más sucias… https://t.co/xtRPm9LRlo",139,2019-04-17 00:17:00,Buffer,22,12
+1118304568146788352,López Obrador firma memorándum y formaliza orden para suspender la aplicación de la reforma educativa de Peña Nieto… https://t.co/nXHKBUv4Zw,140,2019-04-17 00:06:00,Buffer,25,15
+1118302049970552833,"En Ciudad de México respiramos a diario humo, polen, piel muerta y hasta heces fecales: te explicamos sobre los con… https://t.co/wAjw9JidQt",140,2019-04-16 23:56:00,Buffer,56,63
+1118299284716310530,"😷 | Autoridades activan la cuarta contingencia ambiental de 2019, en Ciudad de México. 
+https://t.co/OyqbNZIWTj",111,2019-04-16 23:45:01,Buffer,22,35
+1118293808230346753,"El presidente de Francia, Emmanuel Macron, dice que la catedral de #NotreDame se reconstruirá en 5 años. Por… https://t.co/DMjkm9eNyv",133,2019-04-16 23:23:15,Buffer,31,10
+1118293745257070593,Desde reliquias sagradas hasta gárgolas: 5 tesoros invaluables que alberga la catedral de #NotreDame. Por @bbcmundo. https://t.co/d7hTXxuR6z,140,2019-04-16 23:23:00,Buffer,17,10
+1118290976349544449,"Las compañías de Slim acompañan a los mexicanos en todo momento, ¿es posible vivir un día sin hacerlo más rico? Por… https://t.co/j2jpBa9tuf",140,2019-04-16 23:12:00,Buffer,398,197
+1118288949825421313,"#LoÚltimo | Por muy mala calidad del aire, se activa contingencia ambiental en la Ciudad de México. https://t.co/zJYjQCYlnU",123,2019-04-16 23:03:57,Twitter for iPhone,13,11
+1118288289956618246,Lo que necesitabas saber en Cuaresma: la @Profeco publica comparativo de precios en pescados y mariscos. https://t.co/r92TGKuW8i,128,2019-04-16 23:01:19,Buffer,11,5
+1118287830776733702,"RT @Aire_CDMX: Mar 17:00
+En la mayor parte de la #CDMX y zona conurbada la #CalidadDelAire es MALA. En la #Alcaldía de #Azcapotzalco es MUY…",140,2019-04-16 22:59:30,Twitter for iPhone,0,26
+1118285441118146560,"#Plumaje | ""Rechazamos enérgicamente cualquier opción de capacitación de docentes que genere un lucro que solo bene… https://t.co/oLenLUZuTy",140,2019-04-16 22:50:00,Buffer,12,13
+1118282676362829824,México se acerca al desarrollo de nodos agrícolas climáticamente inteligentes. https://t.co/fHjhJw1Dra https://t.co/JuOnAE85ZC,126,2019-04-16 22:39:01,Buffer,42,15
+1118279904896983040,"El negar la cancelación de un contrato, no brindar los servicios y no respetar los términos y condiciones, entre la… https://t.co/9tPnV2FiaX",140,2019-04-16 22:28:00,Buffer,22,16
+1118277139370000387,"#Plumaje | Calvin Schermerhorn hace una reflexión sobre las disculpas de países por crímenes del pasado, ""un tema q… https://t.co/GPWtJOoOWK",140,2019-04-16 22:17:01,Buffer,5,4
+1118274367102885888,"Por el presunto delito de tortura en agravio de la periodista Lydia Cacho, giran orden de aprehensión contra Mario… https://t.co/nSCq6LKHND",139,2019-04-16 22:06:00,Buffer,346,159
+1118271601563324416,"Xochimilco, la primera alcaldía de Ciudad de México en la que sus pueblos originarios buscan el autogobierno.
+https://t.co/3l2FSJcOvh",133,2019-04-16 21:55:00,Buffer,50,28
+1118268832408322050,Algunas gasolineras que fueron incluidas en el listado de precios bajos y que ayer presentó el @GobiernoMX están ce… https://t.co/8Rl1Gi9obT,140,2019-04-16 21:44:00,Buffer,142,97

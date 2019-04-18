@@ -88,10 +88,11 @@ if __name__ == "__main__":
         if fuente == "":
             break
         try:
-            tweets = api.user_timeline(screen_name=fuente, count = 200)
+            tweets = api.user_timeline(screen_name=fuente, count = 1000)
             df = tweet_analyser.tweets_to_data_frame(tweets)
-            archivo = "Datos2/" + fuente + ".csv"
-            df.to_csv(archivo ,sep='\t',encoding='utf-8', index=False)
+            archivo = "Datos3/" + fuente + ".csv"
+            #df.to_csv(archivo ,sep='\t',encoding='utf-8', index=False)
+            df.to_csv(archivo,encoding='utf-8', index=False)
         except tweepy.TweepError as err:
             print("La cuenta -> " + fuente + " está protegida, saltando cuenta...")
             print(str(err))
