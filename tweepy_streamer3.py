@@ -109,7 +109,8 @@ if __name__ == "__main__":
     #print(tweets[0].retweet_count)
 
 
-    print(df.head(10))
+    #df.to_json('ejemplo.json')
+    df.to_csv('ejemplo.csv',sep='\t',encoding='utf-8', index=False)
 
 
 
